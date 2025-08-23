@@ -1,0 +1,353 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (6 ms)
+Loading the tools information
+Finished loading the tools information (65 ms)
+From ModusToolbox Tools version 3.5.0.0 installed at C:/Users/noritan/ModusToolbox/tools_3.5, using
+ airoc-tools version 5.0.1.207
+ bsp-assistant version 1.40.0.2609
+ bt-configurator version 3.30.0.3160
+ capsense-configurator version 8.0.0.8913
+ cymcuelftool version 1.0.0.62
+ dashboard version 3.5.0.318
+ device-configurator version 5.30.0.3186
+ dfuh-tool version 2.70.0.2722
+ ez-pd-configurator version 2.11.0.2231
+ hardware-config-server version 1.3.0.1635
+ lcs-manager-cli version 1.30.0.323
+ library-manager version 2.40.0.4456
+ lin-configurator version 1.60.0.2198
+ make version 2.5.0.6782
+ modus-shell version 1.5.0.123
+ mtb-settings version 1.0.0.184
+ mtbarchive version 1.5.0.3759
+ mtbgetlibs version 1.5.0.3745
+ mtbideexport version 1.4.0.297
+ mtblaunch version 1.5.0.3745
+ mtbninja version 1.5.0.3745
+ mtbquery version 1.5.0.3745
+ mtbsearch version 1.5.0.3745
+ ninja version 1.12.1
+ project-creator version 2.40.0.4895
+ proxy-helper version 1.70.0.407
+ qspi-configurator version 4.50.0.2481
+ seglcd-configurator version 1.80.0.2081
+ signcombinemkgen version 1.1.0.297
+ smartio-configurator version 4.40.0.1647
+ srecord version 1.64.0.15
+ usbdev-configurator version 2.90.0.2150
+Loading the manifest data
+Online Content mode has been enabled by default.
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-t2g-ce-manifest/raw/main/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/mtb-ce-manifest-fv2-rtlabs.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/rtlabs-mtb-mw-manifest-fw2-rtlabs.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-t2g-ce-manifest/raw/main/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/mtb-ce-manifest-fv2-rtlabs.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/rtlabs-mtb-mw-manifest-fw2-rtlabs.xml'
+Finished loading the manifest data (3702 ms)
+0 error(s), 0 warning(s)
+
+Summary: 
+
+BSP: C:/Users/noritan/bsp/TARGET_CYTVII-B-E-1M-SK-001
+Template Application(s): Empty App
+Application(s) Root Path: C:/Users/noritan/Documents/GitHub/T2G_MultiTasking
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Users/noritan/ModusToolbox/tools_3.5/project-creator/project-creator-cli.exe --board-path C:/Users/noritan/bsp/TARGET_CYTVII-B-E-1M-SK-001 --app-id mtb-example-empty-app --app-uri https://github.com/Infineon/mtb-example-empty-app --app-commit latest-v4.X --target-dir C:/Users/noritan/Documents/GitHub/T2G_MultiTasking --user-app-name Proj003_mtb_example_empty_app --use-modus-shell
+Starting application creation for 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-empty-app'.
+Git#0>Cloning into 'Proj003_mtb_example_empty_app'...
+Git#0>remote: Enumerating objects: 44, done.        
+Git#0>remote: Counting objects:   3% (1/29)        
+Git#0>remote: Counting objects:   6% (2/29)        
+Git#0>remote: Counting objects:  10% (3/29)        
+Git#0>remote: Counting objects:  13% (4/29)        
+Git#0>remote: Counting objects:  17% (5/29)        
+Git#0>remote: Counting objects:  20% (6/29)        
+Git#0>remote: Counting objects:  24% (7/29)        
+Git#0>remote: Counting objects:  27% (8/29)        
+Git#0>remote: Counting objects:  31% (9/29)        
+Git#0>remote: Counting objects:  34% (10/29)        
+Git#0>remote: Counting objects:  37% (11/29)        
+Git#0>remote: Counting objects:  41% (12/29)        
+Git#0>remote: Counting objects:  44% (13/29)        
+Git#0>remote: Counting objects:  48% (14/29)        
+Git#0>remote: Counting objects:  51% (15/29)        
+Git#0>remote: Counting objects:  55% (16/29)        
+Git#0>remote: Counting objects:  58% (17/29)        
+Git#0>remote: Counting objects:  62% (18/29)        
+Git#0>remote: Counting objects:  65% (19/29)        
+Git#0>remote: Counting objects:  68% (20/29)        
+Git#0>remote: Counting objects:  72% (21/29)        
+Git#0>remote: Counting objects:  75% (22/29)        
+Git#0>remote: Counting objects:  79% (23/29)        
+Git#0>remote: Counting objects:  82% (24/29)        
+Git#0>remote: Counting objects:  86% (25/29)        
+Git#0>remote: Counting objects:  89% (26/29)        
+Git#0>remote: Counting objects:  93% (27/29)        
+Git#0>remote: Counting objects:  96% (28/29)        
+Git#0>remote: Counting objects: 100% (29/29)        
+Git#0>remote: Counting objects: 100% (29/29), done.        
+Git#0>remote: Compressing objects:   4% (1/24)        
+Git#0>remote: Compressing objects:   8% (2/24)        
+Git#0>remote: Compressing objects:  12% (3/24)        
+Git#0>remote: Compressing objects:  16% (4/24)        
+Git#0>remote: Compressing objects:  20% (5/24)        
+Git#0>remote: Compressing objects:  25% (6/24)        
+Git#0>remote: Compressing objects:  29% (7/24)        
+Git#0>remote: Compressing objects:  33% (8/24)        
+Git#0>remote: Compressing objects:  37% (9/24)        
+Git#0>remote: Compressing objects:  41% (10/24)        
+Git#0>remote: Compressing objects:  45% (11/24)        
+Git#0>remote: Compressing objects:  50% (12/24)        
+Git#0>remote: Compressing objects:  54% (13/24)        
+Git#0>remote: Compressing objects:  58% (14/24)        
+Git#0>remote: Compressing objects:  62% (15/24)        
+Git#0>remote: Compressing objects:  66% (16/24)        
+Git#0>remote: Compressing objects:  70% (17/24)        
+Git#0>remote: Compressing objects:  75% (18/24)        
+Git#0>remote: Compressing objects:  79% (19/24)        
+Git#0>remote: Compressing objects:  83% (20/24)        
+Git#0>remote: Compressing objects:  87% (21/24)        
+Git#0>remote: Compressing objects:  91% (22/24)        
+Git#0>remote: Compressing objects:  95% (23/24)        
+Git#0>remote: Compressing objects: 100% (24/24)        
+Git#0>remote: Compressing objects: 100% (24/24), done.        
+Git#0>remote: Total 44 (delta 10), reused 22 (delta 5), pack-reused 15 (from 1)        
+Git#0>Receiving objects:   2% (1/44)
+Git#0>Receiving objects:   4% (2/44)
+Git#0>Receiving objects:   6% (3/44)
+Git#0>Receiving objects:   9% (4/44)
+Git#0>Receiving objects:  11% (5/44)
+Git#0>Receiving objects:  13% (6/44)
+Git#0>Receiving objects:  15% (7/44)
+Git#0>Receiving objects:  18% (8/44)
+Git#0>Receiving objects:  20% (9/44)
+Git#0>Receiving objects:  22% (10/44)
+Git#0>Receiving objects:  25% (11/44)
+Git#0>Receiving objects:  27% (12/44)
+Git#0>Receiving objects:  29% (13/44)
+Git#0>Receiving objects:  31% (14/44)
+Git#0>Receiving objects:  34% (15/44)
+Git#0>Receiving objects:  36% (16/44)
+Git#0>Receiving objects:  38% (17/44)
+Git#0>Receiving objects:  40% (18/44)
+Git#0>Receiving objects:  43% (19/44)
+Git#0>Receiving objects:  45% (20/44)
+Git#0>Receiving objects:  47% (21/44)
+Git#0>Receiving objects:  50% (22/44)
+Git#0>Receiving objects:  52% (23/44)
+Git#0>Receiving objects:  54% (24/44)
+Git#0>Receiving objects:  56% (25/44)
+Git#0>Receiving objects:  59% (26/44)
+Git#0>Receiving objects:  61% (27/44)
+Git#0>Receiving objects:  63% (28/44)
+Git#0>Receiving objects:  65% (29/44)
+Git#0>Receiving objects:  68% (30/44)
+Git#0>Receiving objects:  70% (31/44)
+Git#0>Receiving objects:  72% (32/44)
+Git#0>Receiving objects:  75% (33/44)
+Git#0>Receiving objects:  77% (34/44)
+Git#0>Receiving objects:  79% (35/44)
+Git#0>Receiving objects:  81% (36/44)
+Git#0>Receiving objects:  84% (37/44)
+Git#0>Receiving objects:  86% (38/44)
+Git#0>Receiving objects:  88% (39/44)
+Git#0>Receiving objects:  90% (40/44)
+Git#0>Receiving objects:  93% (41/44)
+Git#0>Receiving objects:  95% (42/44)
+Git#0>Receiving objects:  97% (43/44)
+Git#0>Receiving objects: 100% (44/44)
+Git#0>Receiving objects: 100% (44/44), 6.48 KiB | 829.00 KiB/s, done.
+Git#0>Resolving deltas:   0% (0/11)
+Git#0>Resolving deltas:   9% (1/11)
+Git#0>Resolving deltas:  18% (2/11)
+Git#0>Resolving deltas:  27% (3/11)
+Git#0>Resolving deltas:  36% (4/11)
+Git#0>Resolving deltas:  45% (5/11)
+Git#0>Resolving deltas:  54% (6/11)
+Git#0>Resolving deltas:  63% (7/11)
+Git#0>Resolving deltas:  72% (8/11)
+Git#0>Resolving deltas:  81% (9/11)
+Git#0>Resolving deltas:  90% (10/11)
+Git#0>Resolving deltas: 100% (11/11)
+Git#0>Resolving deltas: 100% (11/11), done.
+Git#1>Updating files:  28% (2/7)
+Git#1>Updating files:  42% (3/7)
+Git#1>Updating files:  57% (4/7)
+Git#1>Updating files:  71% (5/7)
+Git#1>Updating files:  85% (6/7)
+Git#1>Updating files: 100% (7/7)
+Git#1>Updating files: 100% (7/7), done.
+Git#1>HEAD is now at 36b22d4 Upload mtb-example-empty-app [2792]
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'Proj003_mtb_example_empty_app'.
+Starting to commit changes to the filesystem and project 'mtb-example-empty-app'.
+Writing mtb file for asset 'cat1cm0p' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'core-lib' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'core-make' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'cmsis' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Writing mtb file for asset 'device-db' to the folder 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs'.
+Git#2>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/cat1cm0p/release-v1.8.0 -c advice.detachedHead=false checkout --progress release-v1.8.0
+Git#3>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/core-lib/release-v1.4.4 -c advice.detachedHead=false checkout --progress release-v1.4.4
+Git#4>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/core-make/release-v3.6.2 -c advice.detachedHead=false checkout --progress release-v3.6.2
+Git#5>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/mtb-hal-cat1/release-v2.7.3 -c advice.detachedHead=false checkout --progress release-v2.7.3
+Git#2>HEAD is now at bc2632e Upload cat1cm0p 1.8.0.508 [3108]
+Git#2>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/cat1cm0p/release-v1.8.0 -c advice.detachedHead=false checkout --progress release-v1.8.0
+Git#6>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/mtb-pdl-cat1/release-v3.17.0 -c advice.detachedHead=false checkout --progress release-v3.17.0
+Git#3>HEAD is now at 933c475 Upload core-lib [3609]
+Git#3>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/core-lib/release-v1.4.4 -c advice.detachedHead=false checkout --progress release-v1.4.4
+Git#7>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/recipe-make-cat1a/release-v2.6.0 -c advice.detachedHead=false checkout --progress release-v2.6.0
+Git#4>HEAD is now at 613198b Upload core-make 3.6.2.7207 [3741]
+Git#4>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/core-make/release-v3.6.2 -c advice.detachedHead=false checkout --progress release-v3.6.2
+Git#8>Starting: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/cmsis/release-v5.8.2 -c advice.detachedHead=false checkout --progress release-v5.8.2
+Git#5>HEAD is now at e876b2b Upload mtb-hal-cat1 [3618]
+Git#5>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/mtb-hal-cat1/release-v2.7.3 -c advice.detachedHead=false checkout --progress release-v2.7.3
+Git#9>Starting: git -C C:/Users/noritan/.modustoolbox/global/device-db/release-v4.28.0 -c advice.detachedHead=false checkout --progress release-v4.28.0
+Git#7>HEAD is now at 2f317f5 Upload recipe-make-cat1a 2.6.0.7147 [3676]
+Git#7>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/recipe-make-cat1a/release-v2.6.0 -c advice.detachedHead=false checkout --progress release-v2.6.0
+Git#8>HEAD is now at 89700d7 Upload cmsis 5.8.2.133 [3108]
+Git#8>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/cmsis/release-v5.8.2 -c advice.detachedHead=false checkout --progress release-v5.8.2
+Git#6>HEAD is now at 92a009f Upload mtb-pdl-cat1 3.17.0.43048 [3726]
+Git#6>Success: git -C C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/mtb_shared/mtb-pdl-cat1/release-v3.17.0 -c advice.detachedHead=false checkout --progress release-v3.17.0
+Git#9>HEAD is now at 8984faea Upload device-db 4.28.0.8806 [3728]
+Git#9>Success: git -C C:/Users/noritan/.modustoolbox/global/device-db/release-v4.28.0 -c advice.detachedHead=false checkout --progress release-v4.28.0
+Writing the file 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-empty-app'.
+Project "Proj003_mtb_example_empty_app" created successfully.
+Successfully created "Proj003_mtb_example_empty_app" application.
+==============================================================================
+= Export "Proj003_mtb_example_empty_app" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+make eclipse CY_IDE_PRJNAME=Proj003_mtb_example_empty_app CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=2025.4 CY_TOOLS_PATHS=C:/Users/noritan/ModusToolbox/tools_3.5 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: C:/Users/noritan/ModusToolbox/tools_3.5
+Searching installed tools in progress...
+Searching installed tools complete
+NOTE: Using 'C:/Users/noritan/ModusToolbox/tools_3.5/ninja/ninja.exe' from PATH.
+Generating mtbninja data files...
+Generating mtbninja data complete...
+Prebuild operations complete
+Toolchain validation: PASS
+Initializing build: mtb-example-empty-app Debug CYTVII-B-E-1M-SK-001 GCC_ARM
+# 0: Loading the application in directory 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app'
+# 0: Loading the ModusToolbox Technology Packs and Early Access Packs
+# 0: Loading the tools information
+# 0: Starting code generator 'device-configurator-cli '
+Tools Directory: C:/Users/noritan/ModusToolbox/tools_3.5
+NOTE: Using 'C:/Users/noritan/ModusToolbox/tools_3.5/ninja/ninja.exe' from PATH.
+Generating mtbninja data files...
+Generating mtbninja data complete...
+Toolchain validation: PASS
+Initializing build: mtb-example-empty-app Debug CYTVII-B-E-1M-SK-001 GCC_ARM
+Prebuild operations complete
+# 0: Loading the application in directory 'C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app'
+# 0: Loading the ModusToolbox Technology Packs and Early Access Packs
+# 0: Loading the tools information
+Generated .clangd
+Generated C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/.cproject
+Generated C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/.project
+Generated C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/.mtbLaunchConfigs/Proj003_mtb_example_empty_app Program.launch
+Generated C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/.mtbLaunchConfigs/Proj003_mtb_example_empty_app Erase Device.launch
+Generated C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/.mtbLaunchConfigs/Proj003_mtb_example_empty_app Attach (KitProg3_MiniProg4).launch
+Generated C:/Users/noritan/Documents/GitHub/T2G_MultiTasking/Proj003_mtb_example_empty_app/.mtbLaunchConfigs/Proj003_mtb_example_empty_app Debug (KitProg3_MiniProg4).launch
+
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+
+For more information, refer to the Eclipse IDE for ModusToolbox user guide.
+
+The application "Proj003_mtb_example_empty_app" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "Proj003_mtb_example_empty_app" application.
