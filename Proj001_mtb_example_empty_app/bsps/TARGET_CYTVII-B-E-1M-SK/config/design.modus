@@ -32,11 +32,7 @@
                     </Parameters>
                 </Personality>
                 <Personality template="pin" version="3.0">
-                    <Block location="ioss[0].port[23].pin[4]" locked="true">
-                        <Aliases>
-                            <Alias value="SWO"/>
-                        </Aliases>
-                    </Block>
+                    <Block location="ioss[0].port[23].pin[4]" locked="true"/>
                     <Parameters>
                         <Param id="DriveModes" value="CY_GPIO_DM_STRONG_IN_OFF"/>
                         <Param id="driveStrength" value="CY_GPIO_DRIVE_1_2"/>
@@ -52,11 +48,7 @@
                     </Parameters>
                 </Personality>
                 <Personality template="pin" version="3.0">
-                    <Block location="ioss[0].port[23].pin[5]" locked="true">
-                        <Aliases>
-                            <Alias value="SWCLK"/>
-                        </Aliases>
-                    </Block>
+                    <Block location="ioss[0].port[23].pin[5]" locked="true"/>
                     <Parameters>
                         <Param id="DriveModes" value="CY_GPIO_DM_PULLDOWN"/>
                         <Param id="driveStrength" value="CY_GPIO_DRIVE_1_2"/>
@@ -72,11 +64,7 @@
                     </Parameters>
                 </Personality>
                 <Personality template="pin" version="3.0">
-                    <Block location="ioss[0].port[23].pin[6]" locked="true">
-                        <Aliases>
-                            <Alias value="SWDIO"/>
-                        </Aliases>
-                    </Block>
+                    <Block location="ioss[0].port[23].pin[6]" locked="true"/>
                     <Parameters>
                         <Param id="DriveModes" value="CY_GPIO_DM_PULLUP"/>
                         <Param id="driveStrength" value="CY_GPIO_DRIVE_1_2"/>
@@ -92,11 +80,7 @@
                     </Parameters>
                 </Personality>
                 <Personality template="pclk" version="3.0">
-                    <Block location="peri[0].div_8[3]" locked="true">
-                        <Aliases>
-                            <Alias value="SWD_CLK"/>
-                        </Aliases>
-                    </Block>
+                    <Block location="peri[0].div_8[3]" locked="true"/>
                     <Parameters>
                         <Param id="fracDivider" value="0"/>
                         <Param id="intDivider" value="1"/>

@@ -43,6 +43,7 @@
 /*******************************************************************************
 * Header Files
 *******************************************************************************/
+#include "cy_gpio.h"
 #include "cy_syslib.h"
 #include "cycfg_pins.h"
 #if defined (CY_USING_HAL)
@@ -111,8 +112,8 @@ int main(void)
 
     for (;;)
     {
+		Cy_SysLib_Delay(250);
 		Cy_GPIO_Inv(LED1_PORT, LED1_PIN);
-		Cy_SysLib_Delay(250UL);
     }
 }
 
